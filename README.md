@@ -2,3 +2,8 @@ https://www.redhat.com/en/blog/securing-inherited-linux-system<br>
 https://access.redhat.com/labs/kickstartconfig<br>
 https://www.redhat.com/en/blog/linux-security-aide<br>
 https://github.com/LS25-BT11/linux/tree/main
+https://github.com/desbma/shh
+https://github.com/MatheuZSecurity/detect-lkm-rootkit-cheatsheet
+https://bt11.tlund.se/fact_files/LS24/facts_files_fam1_morning/
+https://github.com/LS25-BT11/general/blob/main/FromTallin/071%2020250314_TLP_GREEN_LS25_EXPLAN_ANNEX_G_DRAFT_Technical_Environment_Appendix1.pdf
+https://linuxforhealth.github.io/docs/
